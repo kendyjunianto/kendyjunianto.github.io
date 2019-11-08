@@ -1,0 +1,40 @@
+* {
+ 	margin:0;
+ 	padding:0;
+}
+
+.carousel-item img {
+	background-size: 100%;
+}
+
+.carousel-item h5, p {
+		font-size: 20px;
+}
+
+.card-deck {
+	padding: 30px 30px;
+}
+
+.topdeck {
+	background-color:;
+}
+
+.jumbotron {
+	text-align: center;
+	background-image: url(../img/word.jpg);
+	background-size: 100%;
+	color: white;
+	border: 5px solid;
+	border-radius: 50%;
+}
+
+
+.wrapper {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	background-color: #000000;
+	color: white;
+}
